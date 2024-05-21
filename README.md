@@ -10,7 +10,7 @@ Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em 
 
 - Depois de instalada e habilitada, basta clicar no ícone que aparecerá no canto inferior direito do VS Code:
 
-<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357" width="400">
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357" width="300">
 
 - Uma aba de seu navegador padrão abrirá com o site PetLife rodando em seu _localhost_.
 
