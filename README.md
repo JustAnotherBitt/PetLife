@@ -6,7 +6,7 @@ Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em 
 
 - Para ver a página na web no _localhost_ indico a extensão **Live Server**:
 
-![image](https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656)
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656" width="300">
 
 - Depois de instalada e habilitada, basta clicar no ícone que aparecerá no canto inferior direito do VS Code:
 
