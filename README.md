@@ -8,7 +8,7 @@ Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em 
 
 <img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656" width="600">
 
-- Depois de instalada e habilitada, basta clicar no ícone que aparecerá no canto inferior direito do VS Code (a IDE que utilizei - e que indico!):
+- Depois de instalada e habilitada, basta clicar no ícone que aparecerá no canto inferior direito do Visual Studio Code (a IDE que utilizei - e que indico!):
 
 <img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357" width="300">
 
