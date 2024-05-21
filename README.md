@@ -1,4 +1,4 @@
-### Introdução
+# Introdução
 
 Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em **HTML**, 1 em **CSS** e 1 em **JavaScript**. Juntos ele compõem a estrutura básica de um **site de petshop**. 
 
