@@ -38,6 +38,7 @@ Achou esse site interessante? Dê uma olhada nos outros:
 - https://github.com/LeRodrigues2005/Chat-JS
 - https://github.com/LeRodrigues2005/VitaLab-Project
 - https://github.com/LeRodrigues2005/Finance
+- https://github.com/LeRodrigues2005/Study-Async
 
 ### Contate-me
 
