@@ -1,4 +1,4 @@
-## Veja como funciona:
+### Introdução
 
 Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em **HTML**, 1 em **CSS** e 1 em **JavaScript**. Juntos ele compõem a estrutura básica de um **site de petshop**. 
 
@@ -10,7 +10,7 @@ Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em 
 
 - Depois de instalada e habilitada, basta clicar no ícone que aparecerá no canto inferior direito do VS Code:
 
-![image](https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357)
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357" width="400">
 
 - Uma aba de seu navegador padrão abrirá com o site PetLife rodando em seu _localhost_.
 
