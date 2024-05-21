@@ -30,7 +30,12 @@ Ao longo do site você encontra alguns _links clicáveis_. Sinta-se a vontade pa
 
 Achou esse site interessante? Dê uma olhada nos outros:
 
-
+- https://github.com/LeRodrigues2005/Meu-Primeiro-Programa-em-JS
+- https://github.com/LeRodrigues2005/Pagina-com-JavaScript-HMTL-CSS
+- https://github.com/LeRodrigues2005/Cardapio-JavaScript-XML
+- https://github.com/LeRodrigues2005/Chat-JS
+- https://github.com/LeRodrigues2005/VitaLab-Project
+- https://github.com/LeRodrigues2005/Finance
 
 ### Contate-me
 
