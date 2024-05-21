@@ -16,15 +16,15 @@ Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em 
 
 ## Um pouco sobre o site
 
-Esta é aparência inicial:
+- Esta é aparência inicial:
 
 ![image](https://github.com/LeRodrigues2005/PetLife/assets/97632543/f45a5694-dac0-41a7-a122-bd24f4d131f8)
 
-Você pode usar o _scroll_ do mouse ou utilizar a aba guia:
+- Você pode usar o _scroll_ do mouse ou utilizar a aba guia:
 
 ![image](https://github.com/LeRodrigues2005/PetLife/assets/97632543/972e9867-f8db-4a88-8a43-fdaf84194f3a)
 
-Ao longo do site você encontra alguns _links clicáveis_. Sinta-se a vontade para explorar! O código é bem direto, o que torna simples relacionar cada trecho com sua função no site.
+- Ao longo do site você encontra alguns _links clicáveis_. Sinta-se a vontade para explorar! O código é bem direto, o que torna simples relacionar cada trecho com sua função no site.
 
 ## Observação:
 
