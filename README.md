@@ -7,7 +7,7 @@ Neste repositório, você encontrará três arquivos principais: um em **HTML**,
 Para visualizar a página no _localhost_, recomendo a extensão **Live Server**:
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656" alt="" width="50">
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656" alt="" width="500">
 </p>
 
 ## Passo a Passo
