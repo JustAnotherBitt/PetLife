@@ -28,18 +28,3 @@ Olá, visitante. Neste repositório você encontra 3 arquivos principais: um em 
   
 - O código é bem direto, o que torna simples relacionar cada trecho com sua função no site.
 
-## Observação:
-
-Achou esse site interessante? Dê uma olhada nos outros:
-
-- https://github.com/LeRodrigues2005/Meu-Primeiro-Programa-em-JS
-- https://github.com/LeRodrigues2005/Pagina-com-JavaScript-HMTL-CSS
-- https://github.com/LeRodrigues2005/Cardapio-JavaScript-XML
-- https://github.com/LeRodrigues2005/Chat-JS
-- https://github.com/LeRodrigues2005/VitaLab-Project
-- https://github.com/LeRodrigues2005/Finance
-- https://github.com/LeRodrigues2005/Study-Async
-
-### Contate-me
-
-- Dúvidas ou sugestões? Sinta-se a vontade para se conectar comigo no LinkedIn: https://www.linkedin.com/in/letícia-rodrigues-a75134254/
