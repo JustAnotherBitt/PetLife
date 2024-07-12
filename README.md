@@ -7,7 +7,7 @@ Neste repositório, você encontrará três arquivos principais: um em **HTML**,
 Para visualizar a página no _localhost_, recomendo a extensão **Live Server**:
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656" alt="" width="450">
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/450edf70-ad09-49b0-9968-44db40a4a656" alt="" width="50">
 </p>
 
 ## Passo a Passo
@@ -17,7 +17,7 @@ Para visualizar a página no _localhost_, recomendo a extensão **Live Server**:
 2. Clique no ícone do Live Server que aparecerá no canto inferior direito do Visual Studio Code:
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357" alt="" width="300">
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/2d3a8c80-8a7b-42ea-bbb5-f540f6e51357" alt="" width="250">
 </p>
 
 3. Uma aba no seu navegador padrão será aberta com o site PetLife rodando em seu `localhost`.
@@ -33,7 +33,7 @@ Para visualizar a página no _localhost_, recomendo a extensão **Live Server**:
 Você pode usar o _scroll_ do mouse ou a barra de navegação para explorar o site:
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/972e9867-f8db-4a88-8a43-fdaf84194f3a" alt="" width="400">
+<img src="https://github.com/LeRodrigues2005/PetLife/assets/97632543/972e9867-f8db-4a88-8a43-fdaf84194f3a" alt="" width="450">
 </p>
 
 Ao longo do site, você encontrará diversos _links_ clicáveis. Sinta-se à vontade para explorá-los!
